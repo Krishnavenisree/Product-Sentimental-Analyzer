@@ -1,0 +1,9 @@
+selenium
+bs4
+pandas
+webdriver-manager
+pymongo
+flask
+flask-cors
+nltk
+gunicorn
